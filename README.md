@@ -1,1 +1,1 @@
-Devops Proje
+Devops Proj
